@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/04 07:41:48.000.167,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/15 11:20:41.000.164,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/19 17:28:17.000.936,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/21 16:02:57.000.063,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/25 15:58:42.000.580,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/24 10:20:03.000.116,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/17 16:44:05.000.682,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/29 19:44:43.000.482,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/29 22:07:40.000.625,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/29 22:15:04.000.701,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/29 22:21:38.000.707,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/16 10:49:50.000.272,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/29 07:41:12.000.699,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/30 16:23:00.000.445,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/16 15:43:41.000.769,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/16 15:45:46.000.940,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/12/08 15:56:23.000.201,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/01/07 07:19:11.000.760,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/01/07 07:58:15.000.296,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/30 16:11:55.124,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/30 16:12:41.961,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalculaPrecosProj.dfm=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/05/30 16:12:41.961,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalculaPrecosProj.pas=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/30 16:13:40.846,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalculaPrecosProjeto.dfm=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/05/30 16:13:58.032,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\frmCalculaPrecos.dfm=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalculaPrecosProj.dfm</Transaction>
+    <Transaction>2021/05/30 16:13:58.032,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\frmCalculaPrecos.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalculaPrecosProj.pas</Transaction>
+    <Transaction>2021/05/30 16:14:17.175,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Exercicios.CalcularPreco.Interfaces.pas</Transaction>
+    <Transaction>2021/05/30 16:14:17.258,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Exercicios.View.Forms.CalcularPreco.pas</Transaction>
+    <Transaction>2021/05/30 16:15:06.775,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Interfaces.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Exercicios.CalcularPreco.Interfaces.pas</Transaction>
+    <Transaction>2021/05/30 16:15:22.139,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Form.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Exercicios.View.Forms.CalcularPreco.pas</Transaction>
+    <Transaction>2021/05/30 16:15:22.139,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Form.dfm=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Exercicios.View.Forms.CalcularPreco.dfm</Transaction>
+    <Transaction>2021/05/30 16:15:53.703,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Form.pas=</Transaction>
+    <Transaction>2021/05/30 16:16:20.549,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalculaPrecos.Form.dfm=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\frmCalculaPrecos.dfm</Transaction>
+    <Transaction>2021/05/30 16:16:20.549,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalculaPrecos.Form.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\frmCalculaPrecos.pas</Transaction>
+    <Transaction>2021/05/30 16:28:48.390,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 16:40:35.479,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Tipos.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 16:41:11.991,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 16:41:32.134,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Helper.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 16:56:09.703,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 16:58:19.426,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Calculadora.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:03:59.808,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:04:09.289,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Constantes.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:07:25.941,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:09:08.098,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Parametros.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:11:28.451,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:12:03.390,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Operacoes.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:41:55.841,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:51:45.570,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Calculadora.Atacado.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:51:56.602,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:53:39.912,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Calculadora.Varejo.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:53:47.054,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 17:53:57.783,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Calculadora.Feriado.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 18:06:02.067,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 18:07:23.748,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.Controller.Interfaces.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 18:09:02.089,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 18:12:23.621,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\CalcularPreco.CalculadoraDePrecoController.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\3-OOP\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

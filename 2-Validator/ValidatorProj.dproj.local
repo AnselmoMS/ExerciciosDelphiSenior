@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/04 07:41:48.000.167,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/15 11:20:41.000.164,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/19 17:28:17.000.936,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/21 16:02:57.000.063,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/25 15:58:42.000.580,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/24 10:20:03.000.116,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/17 16:44:05.000.682,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/29 19:44:43.000.482,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/29 22:07:40.000.625,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/29 22:15:04.000.701,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/08/29 22:21:38.000.707,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/16 10:49:50.000.272,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/29 07:41:12.000.699,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/30 16:23:00.000.445,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/16 15:43:41.000.769,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/16 15:45:46.000.940,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/12/08 15:56:23.000.201,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/01/07 07:19:11.000.760,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/01/07 07:58:15.000.296,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/28 11:52:01.000.383,=C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/28 11:55:50.000.034,C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\uMain.pas</Transaction>
+    <Transaction>2021/05/28 11:55:50.000.034,C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\uMain.dfm</Transaction>
+    <Transaction>2021/05/28 11:56:02.000.818,C:\Users\ansel\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.dproj</Transaction>
+    <Transaction>2021/05/28 11:56:30.000.979,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.Validator.Text.Actions.MinLength.pas</Transaction>
+    <Transaction>2021/05/28 11:56:30.000.952,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.Validator.Text.Actions.MaxLength.pas</Transaction>
+    <Transaction>2021/05/28 11:56:31.000.055,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Validator.Text.Actions.NonEmpty.pas</Transaction>
+    <Transaction>2021/05/28 11:56:31.000.108,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Validator.Text.Properties.pas</Transaction>
+    <Transaction>2021/05/28 11:56:31.000.006,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Interfaces.pas</Transaction>
+    <Transaction>2021/05/28 11:56:31.000.082,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Validator.Text.Constraints.pas</Transaction>
+    <Transaction>2021/05/28 11:56:31.000.030,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Validator.pas</Transaction>
+    <Transaction>2021/05/28 11:57:01.000.108,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.Validator.Text.Actions.MaxLength.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Constraints.MaxLength.pas</Transaction>
+    <Transaction>2021/05/28 11:57:21.000.278,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.Validator.Text.Actions.MinLength.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Constraints.MinLength.pas</Transaction>
+    <Transaction>2021/05/28 11:57:44.000.890,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Interfaces.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Interfaces.pas</Transaction>
+    <Transaction>2021/05/28 11:57:54.000.947,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Validator.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.pas</Transaction>
+    <Transaction>2021/05/28 11:58:18.000.932,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Validator.Text.Actions.NonEmpty.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Constraints.NonEmpty.pas</Transaction>
+    <Transaction>2021/05/28 11:58:28.000.082,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Validator.Text.Constraints.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Constraints.pas</Transaction>
+    <Transaction>2021/05/28 11:58:42.000.602,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Exercicios.View.Validator.Text.Properties.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Properties.pas</Transaction>
+    <Transaction>2021/05/28 11:59:07.000.938,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Constraints.NonEmpty.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Properties.NonEmpty.pas</Transaction>
+    <Transaction>2021/05/28 11:59:22.000.206,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Constraints.MinLength.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Properties.MinLength.pas</Transaction>
+    <Transaction>2021/05/28 11:59:31.000.183,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Constraints.MaxLength.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.Text.Properties.MaxLength.pas</Transaction>
+    <Transaction>2021/05/28 12:06:15.000.726,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\Validator.dproj=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\2-Validator\ValidatorProj.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

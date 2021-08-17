@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/16 13:50:46.000.996,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/27 13:38:03.000.251,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/05/25 16:11:19.000.025,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/25 16:11:34.000.677,C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Unit1.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/25 16:11:34.000.677,C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Unit1.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/05/25 16:11:36.000.610,C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Project1.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/05/25 16:12:19.000.733,=C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/05/25 16:12:26.000.127,C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Venda.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/05/25 16:16:53.000.868,=C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/05/25 16:17:00.000.511,C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Venda.Interfaces.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/05/25 16:43:09.000.517,=C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/05/25 16:43:17.000.378,C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Item.Attributes.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 07\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 13:44:18.000.596,=C:\Users\thuli\Desktop\Interfaces e DI\Aula 11\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 13:44:26.000.332,C:\Users\thuli\Desktop\Interfaces e DI\Aula 11\Unit2.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 11\Venda.Actions.pas</Transaction>
+    <Transaction>2021/05/26 16:37:42.000.796,=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 16:37:51.000.422,C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Venda.Types.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 16:40:05.000.511,=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 16:40:17.000.754,C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Venda.Actions.Fechado.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 16:42:30.000.614,C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Venda.Actions.Aberta.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Venda.Actions.pas</Transaction>
+    <Transaction>2021/05/26 16:42:44.000.319,=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 16:42:53.000.224,C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Venda.Actions.Totalizacao.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 16:47:07.000.413,=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/05/26 16:47:19.000.177,C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Venda.Types.Helpers.pas=C:\Users\thuli\Desktop\Interfaces e DI\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/06/03 22:22:26.000.740,=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\5-InjecaoDependencia\Aula 12\Unit2.pas</Transaction>
+    <Transaction>2021/06/03 22:22:45.000.928,D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\5-InjecaoDependencia\Aula 12\Unit2.pas=D:\Anselmo\Google Drive\TRABALHO\Desenvolvedor\Delphi\CursoSenior\Exercicios\5-InjecaoDependencia\Aula 12\Venda.Attributes.pas</Transaction>
+  </Transactions>
+</BorlandProject>

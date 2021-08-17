@@ -1,0 +1,96 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{BCD88412-B012-4847-ADE1-F88C043BAEEA}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="1-Logica\Logica.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="2-Validator\ValidatorProj.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="3-OOP\CalculaPrecosProjeto.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="4-RTTI-SQL\DAORTTI_Exercicio.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="5-InjecaoDependencia\Project1.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="OTA\HelloWorld\PackageHelloWorld.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Logica">
+        <MSBuild Projects="1-Logica\Logica.dproj"/>
+    </Target>
+    <Target Name="Logica:Clean">
+        <MSBuild Projects="1-Logica\Logica.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Logica:Make">
+        <MSBuild Projects="1-Logica\Logica.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ValidatorProj">
+        <MSBuild Projects="2-Validator\ValidatorProj.dproj"/>
+    </Target>
+    <Target Name="ValidatorProj:Clean">
+        <MSBuild Projects="2-Validator\ValidatorProj.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ValidatorProj:Make">
+        <MSBuild Projects="2-Validator\ValidatorProj.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="CalculaPrecosProjeto">
+        <MSBuild Projects="3-OOP\CalculaPrecosProjeto.dproj"/>
+    </Target>
+    <Target Name="CalculaPrecosProjeto:Clean">
+        <MSBuild Projects="3-OOP\CalculaPrecosProjeto.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="CalculaPrecosProjeto:Make">
+        <MSBuild Projects="3-OOP\CalculaPrecosProjeto.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DAORTTI_Exercicio">
+        <MSBuild Projects="4-RTTI-SQL\DAORTTI_Exercicio.dproj"/>
+    </Target>
+    <Target Name="DAORTTI_Exercicio:Clean">
+        <MSBuild Projects="4-RTTI-SQL\DAORTTI_Exercicio.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DAORTTI_Exercicio:Make">
+        <MSBuild Projects="4-RTTI-SQL\DAORTTI_Exercicio.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project1">
+        <MSBuild Projects="5-InjecaoDependencia\Project1.dproj"/>
+    </Target>
+    <Target Name="Project1:Clean">
+        <MSBuild Projects="5-InjecaoDependencia\Project1.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project1:Make">
+        <MSBuild Projects="5-InjecaoDependencia\Project1.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PackageHelloWorld">
+        <MSBuild Projects="OTA\HelloWorld\PackageHelloWorld.dproj"/>
+    </Target>
+    <Target Name="PackageHelloWorld:Clean">
+        <MSBuild Projects="OTA\HelloWorld\PackageHelloWorld.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PackageHelloWorld:Make">
+        <MSBuild Projects="OTA\HelloWorld\PackageHelloWorld.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Logica;ValidatorProj;CalculaPrecosProjeto;DAORTTI_Exercicio;Project1;PackageHelloWorld"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Logica:Clean;ValidatorProj:Clean;CalculaPrecosProjeto:Clean;DAORTTI_Exercicio:Clean;Project1:Clean;PackageHelloWorld:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Logica:Make;ValidatorProj:Make;CalculaPrecosProjeto:Make;DAORTTI_Exercicio:Make;Project1:Make;PackageHelloWorld:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
